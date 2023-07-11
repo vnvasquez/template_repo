@@ -3,7 +3,7 @@ name: Bug report v.2
 about: Create a report to help us improve
 title: ''
 labels: ''
-assignees: ''
+assignees: vnvasquez
 
 ---
 
